@@ -1,4 +1,9 @@
-## Hi there 👋
+## About me
+
+## 기술스택
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 
 <!--
 **mathplanet/mathplanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
