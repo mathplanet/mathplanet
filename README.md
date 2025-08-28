@@ -1,3 +1,12 @@
+<!-- header -->
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+HyunTaek's+Github!&fontSize=40"/>
+</p>
+
+
+
+
+
 ## About me
 
 데이터 분석가를 꿈꾸는 신입입니다~!
