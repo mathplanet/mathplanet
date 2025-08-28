@@ -1,6 +1,8 @@
 ## About me
 
-## STACK
+데이터 분석가를 꿈꾸는 신입입니다~!
+
+## STUDYING
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
@@ -10,8 +12,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathplanet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathplanet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathplanet)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mathplanet/mathplanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
