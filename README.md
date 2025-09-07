@@ -19,7 +19,11 @@
 
 <img src="https://img.shields.io/badge/VSCode-4479A1?style=for-the-badge&logo=vscode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
+## Certifications
 
+- 데이터분석준전문가 ADSP (한국데이터산업진흥원)
+  
+- PCSQL (프로그래머스 인증시험) LV2
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathplanet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathplanet)](https://github.com/anuraghazra/github-readme-stats)
 <!--
