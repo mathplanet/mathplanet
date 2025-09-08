@@ -41,10 +41,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0176-second-highest-salary](https://github.com/mathplanet/mathplanet/tree/master/0176-second-highest-salary) |
+
 <!---LeetCode Topics End-->
