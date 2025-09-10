@@ -1,2 +1,2 @@
-demo/** linguist-documentation=false
-demo/** linguist-vendored=false
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
