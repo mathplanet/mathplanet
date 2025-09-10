@@ -25,7 +25,10 @@
   
 - PCSQL (프로그래머스 인증시험) LV2
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathplanet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathplanet)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathplanet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathplanet)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mathplanet/mathplanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
