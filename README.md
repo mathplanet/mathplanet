@@ -13,12 +13,12 @@
 
 ## 🔭 Tech Stack
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-007396?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-007396?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=openai&logoColor=white">  <img src="https://img.shields.io/badge/RAG-FFCA28?style=for-the-badge&logo=rag&logoColor=white"> <img src="https://img.shields.io/badge/streamlit-7952B3?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/Ragas-F7DF1E?style=for-the-badge&logo=ragas&logoColor=white">
 
 
 ## 🔭 TOOLS
 
-<img src="https://img.shields.io/badge/VSCode-4479A1?style=for-the-badge&logo=vscode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/obsidian-7952B3?style=for-the-badge&logo=obsidian&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-4479A1?style=for-the-badge&logo=vscode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/obsidian-7952B3?style=for-the-badge&logo=obsidian&logoColor=white"> <img src="https://img.shields.io/badge/chatgpt-3776AB?style=for-the-badge&logo=openai&logoColor=white">
 
 ## 📫 Certifications
 
