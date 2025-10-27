@@ -30,11 +30,11 @@
 
 ## 🚀 참여 프로젝트
 
-- [자동차 등록대수 조회 및 FAQ 시스템](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-1st-1TEAM)
-- [통신사 고객이탈 분석](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-2nd-1Team)
-- [운전자 보험 RAG 챗봇](https://github.com/mathplanet/mathplanet/edit/main/README.md)
-- [운전자 보험 RAG 챗봇 웹구현](https://github.com/mathplanet/mathplanet/edit/main/README.md)
-- [한샘 AI 인테리어 디자이너](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-FINAL-4TEAM)
+- [자동차 등록대수 조회 및 FAQ 시스템](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-1st-1TEAM) - Data Crawling(Request, Selenium)
+- [통신사 고객이탈 분석](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-2nd-1Team) - EDA
+- [운전자 보험 RAG 챗봇](https://github.com/mathplanet/mathplanet/edit/main/README.md) - 성능 평가
+- [운전자 보험 RAG 챗봇 웹구현](https://github.com/mathplanet/mathplanet/edit/main/README.md) - Java
+- [한샘 AI 인테리어 디자이너](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-FINAL-4TEAM) - Data Crawling, React(Java)
 
 ## ⚡ My Git Stat
 
