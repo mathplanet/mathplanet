@@ -31,11 +31,11 @@
 
 ## 🚀 참여 프로젝트
 
-- [자동차 등록대수 조회 및 FAQ 시스템](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-1st-1TEAM) - Data Crawling(Request, Selenium)
-- [통신사 고객이탈 분석](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-2nd-1Team) - EDA
-- [운전자 보험 RAG 챗봇](https://github.com/mathplanet/mathplanet/edit/main/README.md) - 성능 평가
-- [운전자 보험 RAG 챗봇 웹구현](https://github.com/mathplanet/mathplanet/edit/main/README.md) - Java
-- [한샘 AI 인테리어 디자이너](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-FINAL-4TEAM) - Data Crawling, React(Java)
+- [자동차 등록대수 조회 및 FAQ 시스템](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-1st-1TEAM) - 데이터 크롤링을 통한 한국 자동차 등록대수 및 기업의 FAQ 조회 시스템
+- [통신사 고객이탈 분석](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-2nd-1Team) - 통신사 데이터분석을 통한 고객 이탈 방지 모델 훈련 및 예측
+- [운전자 보험 RAG 챗봇](https://github.com/mathplanet/mathplanet/edit/main/README.md) - Langchain + RAG 기반 운전자 보험 챗봇
+- [운전자 보험 RAG 챗봇 웹구현](https://github.com/mathplanet/mathplanet/edit/main/README.md) - Java(Django)를 통한 챗봇 웹 서비스
+- [한샘 AI 인테리어 디자이너](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-FINAL-4TEAM) - sLLM과 이미지 생성 모델을 통한 한샘 AI 인테리어 디자이너
 
 ## ⚡ My Git Stat
 
