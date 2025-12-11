@@ -7,11 +7,11 @@
 
 
 
-## 😄 About me
+## About me
 
 명확한 전달력과 발표력을 갖춘 데이터 분석가, 기현택입니다.
 
-## 🔭 Tech Stack
+## Tech Stack
 <!-- 언어 & 프레임워크 -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -34,7 +34,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-## 📫 Certifications
+## Certifications
 
 - 데이터분석준전문가 ADSP (한국데이터산업진흥원)
   
@@ -45,9 +45,9 @@
 - TOEIC 845
 
 
-# 🚀 참여 프로젝트
+# 참여 프로젝트
 
-## 🚗 자동차 선호도 분석 & 기업 FAQ 제공
+## 자동차 선호도 분석 & 기업 FAQ 제공
 - [자동차 등록대수 조회 및 FAQ 시스템](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-1st-1TEAM)
 
 
@@ -68,7 +68,7 @@
 ![Requests](https://img.shields.io/badge/Requests-000000?style=flat)
 
 
-## 📡 통신사 이탈 고객 예측 모델링
+## 통신사 이탈 고객 예측 모델링
 - [통신사 고객이탈 분석](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-2nd-1Team)
 
 📌 **30+ 변수 중 핵심 변수 5개 식별 및 시각화 기반 EDA 수행**  
@@ -89,7 +89,7 @@
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat)
 
-## 🧾 RAG 기반 운전자 보험 약관 QA 챗봇
+## RAG 기반 운전자 보험 약관 QA 챗봇
 - [운전자 보험 RAG 챗봇](https://github.com/mathplanet/mathplanet/edit/main/README.md)
 - [운전자 보험 RAG 챗봇 웹구현](https://github.com/mathplanet/mathplanet/edit/main/README.md)
 
@@ -109,7 +109,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat)
 
-## 🛋️ 한샘 AI 이미지 인테리어 디자이너
+## 한샘 AI 이미지 인테리어 디자이너
 - [한샘 AI 인테리어 디자이너](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-FINAL-4TEAM)
 
 📌 **한샘 블로그·뉴스 약 1,000건 크롤링 및 가구 데이터 정제**  
@@ -131,12 +131,12 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat)
 
-## ⚡ My Git Stat
+## My Git Stat
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathplanet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-## 🌱 My most used Languages
+## My most used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathplanet)](https://github.com/anuraghazra/github-readme-stats)
 
