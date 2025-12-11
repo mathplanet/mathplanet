@@ -25,9 +25,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-0052CC?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6C20?style=flat)
-![LightGBM](https://img.shields.io/badge/LightGBM-019863?style=flat)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-000000?style=flat)
 
 <!-- Infra -->
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)
