@@ -125,14 +125,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat)
 
-## My Git Stat
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathplanet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-
-
-## My most used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathplanet)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mathplanet/mathplanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
